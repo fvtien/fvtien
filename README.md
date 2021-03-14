@@ -1,9 +1,10 @@
 ### Hi there 👋
 <img src="audi.jpg" />
 
-🌱 I’m currently learning IT
-💬 Ask me about
-📫 How to reach me: <a href="https://www.facebook.com/fvtien/">Facebook</a>
+- 🌱 I’m currently learning IT
+- 💬 Ask me about
+- 📫 How to reach me: <a href="https://www.facebook.com/fvtien/">Facebook</a>
+- Site: <a href="https://cheepsoft.com/">Cheepsoft</a>
 
 <!--
 **fvtien/fvtien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
